@@ -1,0 +1,18 @@
+[48636:48640:0213/154329.822:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[48636:46468:0213/154329.874:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[48636:48640:0213/154329.897:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[48636:48640:0213/154331.919:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[4084:46444:0213/154333.388:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D0559F25A20C9003C4BF7C19B754CB66 will be ignored
+[48636:48640:0213/154337.569:ERROR:device_event_log_impl.cc(196)] [15:43:37.566] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48636:48640:0213/174502.448:ERROR:device_event_log_impl.cc(196)] [17:45:02.348] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[48636:48640:0213/175916.497:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[49320:22236:0213/175922.452:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[49320:48384:0213/175922.494:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[49320:50132:0213/175922.500:ERROR:ukm_database_backend.cc(146)] Failed to open UKM database: 0 database is locked
+[49320:22236:0213/175922.507:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[49320:22236:0213/175924.952:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[47412:47276:0213/175926.255:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-55EF3D48750A4404B1CA1BB7CC302546 will be ignored
+[49320:22236:0213/175931.254:ERROR:device_event_log_impl.cc(196)] [17:59:30.926] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[49320:22236:0213/183512.894:ERROR:device_event_log_impl.cc(196)] [18:35:12.875] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[49320:22236:0213/184657.245:ERROR:device_event_log_impl.cc(196)] [18:46:57.244] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[49320:22236:0213/193302.860:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
