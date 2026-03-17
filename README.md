@@ -1,2 +1,3 @@
 # Traversal-Project-UE5
 UE5 proj for GAME 310
+As a general, I want the player to feel how empty the main area of the world is. The rolling sand piles and swallowed up buildings should help with this. Any tips on improving the empty, abandoned, and lonely feel of the game level would be greatly appreciated. Any recomendations on to better improve the flow of the game including puzzle clearness would be amazing. Overall, I haven't encountered any major bugs or workarounds within the project. Feel free to hunt for bugs or exploits to make me aware so I can fix them! 
